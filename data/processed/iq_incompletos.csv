@@ -1,0 +1,2 @@
+file,data_file,sample_start,sample_count,file_size,bytes_available,expected_bytes,samples_available,samples_expected
+sigmfs/25_01_24-15_38/rrh3/1060.sigmf-meta,sigmfs/25_01_24-15_38/rrh3/1060.sigmf-data,253611,9024,2031616,2728,72192,341,9024

@@ -1,0 +1,3 @@
+Modelo,n,RMSE,MAE,R²,Evaluación
+Mixto,102595,3.9931,3.1538,0.9148,Ajuste (in-sample)
+XGBoost,82075,4.3278,3.294,0.9005,CV por transmisión

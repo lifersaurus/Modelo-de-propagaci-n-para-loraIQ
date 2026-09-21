@@ -1,0 +1,26 @@
+GAM PRINCIPAL — SNR (5 escenarios)
+======================================================================
+
+Observaciones: 102,595
+Escenarios: 5
+Transmisiones: 29,808
+
+Modelo: f(area_type) + f(rrh_idx)
+NOTA: Sin splines (sin numéricas continuas).
+
+RMSE ajuste: 10.6114 dB
+MAE  ajuste: 8.2748 dB
+R²   ajuste: 0.3987
+
+RMSE CV: 10.6117 ± 0.0405 dB
+MAE  CV: 8.2751 ± 0.0395 dB
+R²   CV: 0.3986 ± 0.0015
+
+CRITERIOS
+  edof: 7.999656637739544
+  AIC: 775815.1335972092
+  AICc: 775815.1353517246
+  GCV: 112.62743669732839
+  UBRE: None
+  loglikelihood: -387898.5671419669
+  pseudo_r2: OrderedDict([('explained_deviance', np.float64(0.3986603775308184)), ('McFadden', np.float64(0.9194005339232111)), ('McFadden_adj', np.float64(0.08058050522153715))])
