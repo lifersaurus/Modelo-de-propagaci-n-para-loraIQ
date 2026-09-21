@@ -1,0 +1,1 @@
+# Modelo-de-propagaci-n-para-loraIQ
